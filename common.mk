@@ -344,6 +344,7 @@ PRODUCT_PACKAGES += \
     FrameworksResTarget_Vendor \
     FrameworksResXiaomi \
     SettingsProviderResXiaomi \
+    SettingsResXiaomi \
     WifiResTarget \
     WifiResTarget_spf
 
