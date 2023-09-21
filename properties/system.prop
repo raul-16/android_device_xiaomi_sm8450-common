@@ -9,6 +9,10 @@ ro.charger.enable_suspend=1
 # CNE
 persist.vendor.cne.feature=1
 
+# Display
+debug.hwui.use_hint_manager=true
+debug.hwui.target_cpu_time_percent=20
+
 # Graphics
 debug.sf.disable_backpressure=1
 ro.sf.force_hwc_brightness=1
