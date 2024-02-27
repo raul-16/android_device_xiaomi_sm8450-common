@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from zeus V14.0.8.0.TLBMIXM
+# All unpinned blobs below are extracted from zeus V14.0.10.0.TLBMIXM
 
 # ADSP
 vendor/bin/adsprpcd
